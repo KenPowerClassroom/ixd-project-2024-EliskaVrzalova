@@ -27,7 +27,7 @@ table, td{
 }
 td{
     text-align: center;
-    width:25%;
+    width:250px;
     
 
 }
@@ -40,4 +40,26 @@ tr:not(tr.center) td{
 }
 .orange{
     background-color: #d7964c;
+}
+.participant{
+    background-color: rgb(112, 163, 234);
+}
+#clickPath{
+    font-weight: bold;
+    color: rgb(14, 156, 80);
+}
+#observations{
+    font-weight: bold;
+    color: rgb(154, 7, 10);
+}
+#quotes{
+    font-weight: bold;
+    color: rgb(241, 120, 15);
+}
+#taskC{
+    font-weight: bold;
+    color: rgb(7, 72, 162);
+}
+#nums{
+    text-align: center;
 }
